@@ -6,6 +6,6 @@ public struct DependencyB {
     }
     
     public func doSomething() -> String {
-        "Directly Imported Dependency"
+        "Directly Imported Dependency v0.0.2"
     }
 }
